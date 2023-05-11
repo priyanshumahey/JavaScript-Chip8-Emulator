@@ -1,0 +1,19 @@
+{
+  "name": "javascript-chip8-emulator",
+  "version": "1.0.0",
+  "description": "A simple javascript emulator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priyanshumahey/JavaScript-Chip8-Emulator.git"
+  },
+  "author": "Priyanshu Mahey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priyanshumahey/JavaScript-Chip8-Emulator/issues"
+  },
+  "homepage": "https://github.com/priyanshumahey/JavaScript-Chip8-Emulator#readme"
+}
