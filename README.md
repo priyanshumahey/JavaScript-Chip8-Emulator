@@ -4,7 +4,7 @@
 
 Chip 8 is an interpreted minimalist programming langauge for use on the RCA COSMAC VIP computer. It features only 4kB of memory and can use 36 instructions. Chip 8 was very popular in the 1970s and 1980s and nowadays is only used for learning how to make emulators.
 
-This project is heaviyl based on the incredible information provided at <http://devernay.free.fr/hacks/chip8/C8TECH10.HTM>.
+This project is heavily based on the incredible information provided at <http://devernay.free.fr/hacks/chip8/C8TECH10.HTM>.
 
 ## Background on Chip-8
 
